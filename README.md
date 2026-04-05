@@ -1,5 +1,7 @@
 # Ghana Credit Risk Scorer
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ghana-credit-risk-scorer-cydfwkxd5dbgxt5ln43smg.streamlit.app)
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.7.6-green)
 ![SHAP](https://img.shields.io/badge/SHAP-0.43.0-orange)
