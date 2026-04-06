@@ -63,6 +63,14 @@ ghana-credit-risk-scorer/
 | 4 | income | 0.355 |
 | 5 | age | 0.276 |
 
+
+## Quick Reference Guide
+
+For non-technical users and loan officers, see the
+[Borrower Risk Assessment Guide](BORROWER_RISK_GUIDE.md)
+for plain-English explanation of risk tiers, borrower
+profiles, and how to interpret app decisions.
+
 ## Key Findings
 
 - Number of concurrent open accounts is the strongest
